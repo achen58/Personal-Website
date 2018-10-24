@@ -2,8 +2,7 @@
   <head> 
     <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-    <link rel="stylesheet" type"text/css" href="website.css">
-  </head>
+    
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <body>
     <div id="main"> 
@@ -15,7 +14,10 @@
       </div>
       
       <h1 id="title">Andrew M. Chen</h1>
-      <a href="https://imgur.com/ZqsWKB9"><img src="https://i.imgur.com/ZqsWKB9.jpg" title="source: imgur.com" id="image"/></a>
+     <div class="centerpic" style="border-style: solid>
+       <a href="https://imgur.com/ZqsWKB9" id= "image"><img src="https://i.imgur.com/ZqsWKB9.jpg" title="source: imgur.com" height=350px width=250px>
+      </a>
+    </div>
       <p class="description"> Here's a picture of me looking all goofy</p> 
     </div>
     
@@ -65,5 +67,6 @@
 </p>
 </div>
   </div>
+  </head>
   </body>
 </html>
