@@ -2,7 +2,7 @@
   <head> 
     <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
-    <link rel="stylesheet" type"text/css" herf="website.css">
+    <link rel="stylesheet" type"text/css" href="website.css">
   </head>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
   <body>
