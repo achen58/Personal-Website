@@ -14,7 +14,7 @@
       </div>
       
       <h1 id="title">Andrew M. Chen</h1>
-     <div class="centerpic" style="border-style: solid>
+     <div class="centerpic">
        <a href="https://imgur.com/ZqsWKB9" id= "image"><img src="https://i.imgur.com/ZqsWKB9.jpg" title="source: imgur.com" height=350px width=250px>
       </a>
     </div>
